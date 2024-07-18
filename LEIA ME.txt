@@ -1,0 +1,24 @@
+- Projeto de Flávio Mesquita Marinho Filho para a OAK
+- Projeto produzido em .NET (C#)
+- Abrir no VisualStudio 2022 ou VisualStudio Code
+- Para abrir no VisualStudio 2022 só apertar no botão https na parte superior
+- Para abrir no VisualStudio Code, abra a o arquivo e use o comando "dotnet run" ou "dotnet watch run" e siga o link do LocalHost que aparece no terminal.
+- SQL povoado está na pasta
+- Foi usado o MySql, caso nunca tenha usado C#, instalar o pacote nuget do Pomelo para MySQL
+- Foram colocadas as especificações do desafio
+
+--- 𝐂𝐚𝐝𝐚𝐬𝐭𝐫𝐨:
+
+- Formulário com os campos abaixo:
+
+  - Nome do produto - campo de texto
+  - Descrição do produto - campo de texto
+  - Valor do produto - campo de valor
+  - Disponível para venda - campo com 2 opções: sim / não
+
+--- 𝐋𝐢𝐬𝐭𝐚𝐠𝐞𝐦:
+
+- Colunas da listagem: nome, valor
+- Ordenação por valor do menor para o maior
+- Quando cadastrar um novo produto é para abrir a listagem automaticamente
+- Deve existir um botão para cadastrar um novo produto a partir da listagem

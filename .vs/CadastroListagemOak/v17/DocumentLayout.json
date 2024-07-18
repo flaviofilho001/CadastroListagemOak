@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\cadastrolistagemoak\\cadastrolistagemoak\\data\\cadastrolistagemoakcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\data\\cadastrolistagemoakcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\controllers\\cadastroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\controllers\\cadastroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\cadastrolistagemoak\\cadastrolistagemoak\\views\\cadastroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\cadastroes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\cadastroes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\cadastroes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\cadastroes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\cadastroes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\cadastroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\cadastroes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\cadastroes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\cadastroes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\migrations\\20240717010640_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\migrations\\20240717010640_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\cadastrolistagemoak\\models\\enums\\edisponivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99832A-4710-41CA-9239-14020150C385}|CadastroListagemOak\\CadastroListagemOak.csproj|solutionrelative:cadastrolistagemoak\\models\\enums\\edisponivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroListagemOakContext.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Data\\CadastroListagemOakContext.cs",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Data\\CadastroListagemOakContext.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Data\\CadastroListagemOakContext.cs",
+              "RelativeToolTip": "CadastroListagemOak\\Data\\CadastroListagemOakContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:13:23.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Details.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Cadastroes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Details.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Cadastroes\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:02:28.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:03:23.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Create.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Cadastroes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Create.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Cadastroes\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:01:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Cadastroes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Edit.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Cadastroes\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:02:39.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:03:38.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroesController.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Controllers\\CadastroesController.cs",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Controllers\\CadastroesController.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Controllers\\CadastroesController.cs",
+              "RelativeToolTip": "CadastroListagemOak\\Controllers\\CadastroesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:59:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Cadastroes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Index.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Cadastroes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:02:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Cadastroes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Cadastroes\\Delete.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Cadastroes\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:02:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\appsettings.json",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\appsettings.json",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\appsettings.json",
+              "RelativeToolTip": "CadastroListagemOak\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T01:04:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:03:58.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:03:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:03:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Program.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Program.cs",
+              "RelativeToolTip": "CadastroListagemOak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:54:54.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240717010640_v1.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Migrations\\20240717010640_v1.cs",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Migrations\\20240717010640_v1.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Migrations\\20240717010640_v1.cs",
+              "RelativeToolTip": "CadastroListagemOak\\Migrations\\20240717010640_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:06:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:07:41.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CadastroListagemOak\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T01:07:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Models\\Cadastro.cs",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Models\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Models\\Cadastro.cs",
+              "RelativeToolTip": "CadastroListagemOak\\Models\\Cadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:53:01.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EDisponivel.cs",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Models\\Enums\\EDisponivel.cs",
+              "RelativeDocumentMoniker": "CadastroListagemOak\\Models\\Enums\\EDisponivel.cs",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\CadastroListagemOak\\CadastroListagemOak\\Models\\Enums\\EDisponivel.cs",
+              "RelativeToolTip": "CadastroListagemOak\\Models\\Enums\\EDisponivel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:52:34.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
